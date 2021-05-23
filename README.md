@@ -1,19 +1,15 @@
-# open-source-repo-starter
+# Projects
 
-This is an open source repository template. This template can be used while creating a new repo as well as the files can be indiviually used as per need basis.
+> it contains all the project list that i have made and also project ideas
 
-### Folder Structure:
-```
-|- .gitignore
-|- CODE_OF_CONDUCT.md
-|- CONTRIBUTING.md
-|- LICENSE
-|- README.md
-|- .github
-    |- pull_request.md
-    |- ISSUE_TEMPLATE
-        |- bug_report.md
-        |- feature_request.md
-```
+<table style="width:100%">
+  <tr>
+    <th>Project Name</th>
+    <th>Live</th>
+    <th>Repo</th>
+  </tr>
+   
+</table>
+
 
 ### Make sure to checkout [Contributing](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)

@@ -115,8 +115,8 @@
 
   <tr>
     <td>Request Header Parser Microservice</td>
-    <td><a href="https://project-timestamp.jainaayush01.repl.co/">Website</a></td>
-    <td><a href="https://github.com/jainaayush01/FreeCodeCamp-Projects/tree/main/APIs-and-Microservices/Timestamp-Microservice">Repo</a></td>
+    <td><a href="https://project-headerparser.jainaayush01.repl.co/">Website</a></td>
+    <td><a href="https://github.com/jainaayush01/FreeCodeCamp-Projects/tree/main/APIs-and-Microservices/Header-Parser-Microservice">Repo</a></td>
   </tr>
    
 </table>
@@ -157,8 +157,8 @@
 
   <tr>
     <td>American British Translator</td>
-    <td><a href="https://project-timestamp.jainaayush01.repl.co/">Website</a></td>
-    <td><a href="https://github.com/jainaayush01/FreeCodeCamp-Projects/tree/main/APIs-and-Microservices/Timestamp-Microservice">Repo</a></td>
+    <td><a href="https://project-american-british-english-translator.jainaayush01.repl.co/">Website</a></td>
+    <td><a href="https://github.com/jainaayush01/FreeCodeCamp-Projects/tree/main/Quality-Assurance/American-British-English-Translator-Project">Repo</a></td>
   </tr>
    
 </table>
